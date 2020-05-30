@@ -1,0 +1,19 @@
+{
+  "name": "websense",
+  "version": "0.0.1",
+  "description": "this is websense",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letskhabar/websense.git"
+  },
+  "keywords": [
+    "websense"
+  ],
+  "author": "letskhabar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letskhabar/websense/issues"
+  },
+  "homepage": "https://github.com/letskhabar/websense#readme"
+}
